@@ -9,3 +9,7 @@ Ce projet est une application Laravel qui permet de gérer des produits à l'aid
 - **Afficher les détails d'un produit** : Montre les détails spécifiques d'un produit sélectionné.
 - **Éditer un produit** : Permet de modifier les informations d'un produit existant.
 - **Supprimer un produit** : Permet de supprimer un produit de la base de données.
+
+
+Contact
+For any questions or inquiries, please feel free to reach out to me via email at agratmehdi356@gmail.com or connect with me on LinkedIn.
